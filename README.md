@@ -21,8 +21,11 @@ El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 
     1. Clona el repositorio desde GitHub:
-    git clone https://github.con/Y3etlex/AlejandroDiazRETO.git
+	
+    `git clone https://github.con/Y3etlex/AlejandroDiazRETO.git`
+	
     2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, IntelliJ...).
+	
     3. Compila y ejecuta el proyecto.
 
 ## Uso
