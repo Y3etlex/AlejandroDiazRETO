@@ -31,13 +31,12 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 ## Uso
 
 El sistema veterinario incluye las siguentes funcionalidades principales:
-
-    - Solicitud y gestión de citas.
-    - Acceso y consulta del historial clínico.
-    - Comunicación entre pacientes y profesionales.
-    - Administración del personal.
-    - Revisión de informes.
-    - Gestión de facturas.
+_ Solicitud y gestión de citas.
+_ Acceso y consulta del historial clínico.
+_ Comunicación entre pacientes y profesionales.
+_ Administración del personal.
+_ Revisión de informes.
+_ Gestión de facturas.
 
 Para utilizar la aplicación, sigue las instrucciones proporcionadas en la interfazde usuario o consulta la documentación del usuario incluida en el repositorio.
 
@@ -64,11 +63,11 @@ Lo representamos a través del sigueinte diagrama de casos de uso:
 
 ¿Quieres colaborar en el desarrollo?
 
-    1. Haz fork del repositorio.
-    2. Crea una nueva rama(`git checkout -b feature/tu-mejora`).
-    3. Realiza tus cambios y haz commit(`git commit -am 'Agrega nueva funcionalidad'`).
-    4. Haz push a la rama(`git push origin feature/nueva-funcionalidad`).
-    5. Abre un pull request su revisión.
+    1.Haz fork del repositorio.
+    1.Crea una nueva rama(`git checkout -b feature/tu-mejora`).
+    1.Realiza tus cambios y haz commit(`git commit -am 'Agrega nueva funcionalidad'`).
+    1.Haz push a la rama(`git push origin feature/nueva-funcionalidad`).
+    1.Abre un pull request su revisión.
 
 ## Subvención
 
