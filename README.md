@@ -67,7 +67,7 @@ Este proyecto está subvencionado por el [Gobierno de españa.](https://www.info
 
 ___
 
-Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [Documentacion técnica.](https://niideamacho.com)
+Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [Documentacion técnica.](./documentacion-tecnica.md)
 
 Otros organismos colaboradores:
-![vigen](https://www.educantabria.es/documents/8911298/8913497/logoIESMPH.png)
+![vigen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.educantabria.es%2Fdocuments%2F8911298%2F8913497%2FlogoIESMHP.png%2F9e9ecc59-329b-3369-b5b5-1929f670eb01%3Ft%3D1666706242951&f=1&nofb=1&ipt=bae4051b96212d601c8a7d96609e3b91505762f03e62cda2436886d6cc799fca)
