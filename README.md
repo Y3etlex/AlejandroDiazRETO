@@ -40,13 +40,13 @@ Para utilizar la aplicación, sigue las instrucciones proporcionadas en la inter
 
 A continucación se detalla la función dentro del sistema de cada uno de los usuarios.
 
- **Usuario**	**Funcionalidad**
+ **Usuario**<p>	</p>**Funcionalidad**
 _____________________________________________________________________________
- Paciente 	Solicita citas, accede a su historial, contacto con el médico.
+ Paciente<p>	</p>Solicita citas, accede a su historial, contacto con el médico.
 _____________________________________________________________________________
- Veterinario	Gestiona citas, consulta historiales, emite recetas.
+ Veterinario<p>	</p>Gestiona citas, consulta historiales, emite recetas.
 _____________________________________________________________________________
-Administrador	Administra personal, informes y facturación.
+Administrador<p>	</p>Administra personal, informes y facturación.
 
 Lo representamos a través del sigueinte diagrama de casos de uso:
 ![Casos_de_uso](./entornos/Casos%20de%20uso.drawio.png)
