@@ -4,8 +4,8 @@
 
 ## Índice
 
-- [Documentación de la Aplicación de Gestión Veterinaria](https://pinterest.com)
-  - [Índice](Índice)
+- [Documentación de la Aplicación de Gestión Veterinaria](Documentación-de-la-Aplicación-de-Gestión-Veterinaria)
+  - [Índice][Índice]
   - [Introducción](Introducción)
   - [Instalación](Instalación)
   - [Uso](Uso)
