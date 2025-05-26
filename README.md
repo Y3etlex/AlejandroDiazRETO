@@ -41,11 +41,11 @@ Para utilizar la aplicación, sigue las instrucciones proporcionadas en la inter
 A continucación se detalla la función dentro del sistema de cada uno de los usuarios.
 
  **Usuario**	**Funcionalidad**
----
+_____________________________________________________________________________
  Paciente 	Solicita citas, accede a su historial, contacto con el médico.
----
+_____________________________________________________________________________
  Veterinario	Gestiona citas, consulta historiales, emite recetas.
----
+_____________________________________________________________________________
 Administrador	Administra personal, informes y facturación.
 
 Lo representamos a través del sigueinte diagrama de casos de uso:
