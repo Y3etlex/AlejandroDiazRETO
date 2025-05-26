@@ -5,7 +5,7 @@
 ## Índice
 
 - [Documentación de la Aplicación de Gestión Veterinaria](Documentación-de-la-Aplicación-de-Gestión-Veterinaria)
-  - [Índice][Índice]
+  - [Índice]{Índice}
   - [Introducción](Introducción)
   - [Instalación](Instalación)
   - [Uso](Uso)
