@@ -65,7 +65,7 @@ Lo representamos a través del sigueinte diagrama de casos de uso:
 
 Este proyecto está subvencionado por el [Gobierno de españa.](https://www.infosubvenciones.es/bdtrans/GE/es/inicio)
 
-**---**
+___
 
 Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [Documentacion técnica.](https://niideamacho.com)
 
